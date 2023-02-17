@@ -1,0 +1,3 @@
+UserAgent: "cbcheck"
+Database: "./cbcheck.sqlite"
+SlackWebhookURL: "https://hooks.slack.com/services/..." 

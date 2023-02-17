@@ -1,0 +1,4 @@
+cbcheck
+config.yaml
+*.sqlite
+dist/
